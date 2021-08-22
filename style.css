@@ -1,0 +1,114 @@
+/* section customaization  */
+.header-section{
+    display: flex;
+    padding-bottom: 150px;
+}
+.div-width{
+    width: 50%;
+    padding: 2%;
+
+}
+/* img customaization  */
+.div-width img{
+    width: 55%;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+/* text customaization  */
+.pagarph{
+    font-size: 12px;
+}
+.heading{
+    font-size: 29px;
+}
+.m{
+    font-size: 12px;
+}
+.a{
+    font-size: 12px;
+}
+/* button customaization  */
+.b{
+    font-size: 12px;
+    border-radius: 3px;
+    height: 25px;
+    background: white;
+    border: 1px solid rgb(177, 173, 173);
+   
+}
+.b:hover{
+    color: rgb(214, 214, 214);
+}
+.i{
+    display: flex;
+    
+}
+
+.e-n{
+    margin-left: 74px;
+    margin-top: 10px;
+    font-size: 12px;
+}
+.s-n{
+    margin-left: 78px;
+    margin-top: 10px;
+    font-size: 12px;
+}
+.d-n{
+    margin-left: 92px;
+    margin-top: 10px;
+    font-size: 12px;
+}
+.t-n{
+    margin-left: 120px;
+    margin-top: 10px;
+    font-size: 12px;
+}
+.n{
+    margin-left: 125px;
+    margin-top: 10px;
+    font-size: 12px;
+}
+
+.m-t{
+    margin-bottom: 70px;
+}
+
+.it{
+    width: 138px;
+    height: 25px;
+    border-radius: 5px;
+}
+
+.btn{
+    width: 65px;
+    height: 31px;
+    background:crimson;
+    border: none;
+    border-radius: 5px;
+    color: white;
+
+}
+.btn:hover{
+    color: rgb(194, 179, 179);
+}
+
+/* hr coustomize  */
+.h{
+    width: 206px;
+    margin-right: 248px;
+}
+.h-i{
+    width: 206px;
+    margin-right: 248px;
+    background: black;
+    height: 2px;
+}
+/* footer customaization  */
+.l-h{
+    margin-top: -140px;
+    width: 800px;
+}
+.l-t{
+    text-align: center;
+}
